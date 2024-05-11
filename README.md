@@ -6,7 +6,7 @@ Embarque em uma jornada emocionante pelo mundo da química com seus personagens 
 
 Balanceie equações químicas com a Sakura na Enfermaria de Konoha, conserte a rede elétrica com a Patrulha Canina identificando íons, organize a Tabela Periódica na Terra de Ooo com Finn e Jake, e prepare um delicioso hambúrguer de siri com Bob Esponja desvendando reações químicas!
 
-Com gráficos divertidos, personagens cativantes e desafios inteligentes, Aventuras Químicas Animadas! transforma o aprendizado em uma brincadeira épica! �
+Com gráficos divertidos, personagens cativantes e desafios inteligentes, Aventuras Químicas Animadas! transforma o aprendizado em uma brincadeira épica!
 
 O projeto "Aventuras Químicas Animadas!" foi concebido como uma ferramenta educacional inovadora, projetada para transformar o estudo da química em uma experiência divertida e interativa. A inteligência artificial (IA) desempenha um papel central no desenvolvimento deste jogo, atuando como uma equipe de criação multifuncional. Com os comandos e prompts corretos, a IA pode não apenas programar e estruturar o jogo, mas também criar arte e design gráfico que dão vida ao mundo do jogo.
 
